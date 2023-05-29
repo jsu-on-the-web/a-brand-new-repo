@@ -1,0 +1,1 @@
+Just a repository for a challenge from _Nology Day 1 Week 1.
